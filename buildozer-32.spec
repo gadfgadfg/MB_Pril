@@ -1,7 +1,7 @@
 [app]
 
 # (string) title of your application
-title = Qwota Messenger
+title = Qwota_Messenger
 
 # (string) package.name domain of your application (needed for android/ios package)
 package.name = qwota.messenger
