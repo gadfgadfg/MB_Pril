@@ -1,10 +1,10 @@
 [app]
 
 # (string) title of your application
-title = Qwota_Messenger
+title = Qwota Messenger
 
 # (string) package.name domain of your application (needed for android/ios package)
-package.name = qwota.messenger
+package.name = qwotamessenger
 # (string) package.domain domain of your application (needed for android/ios package)
 package.domain = org.example
 
